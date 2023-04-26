@@ -17,7 +17,7 @@ Projects
    Jiāolóng is a name based on Chinese mythology that refers to a legendary "hornless dragon", which could symbolize the script's ability to detect and neutralize dangerous threats without causing harm
    
    
-   #### [Fenghuang Email Analysis]:The script "Fenghuang" is a Python script that is designed to scan emails for potentially malicious content. The script includes a number of functions that allow it to perform various tasks related to email scanning Not Public Yet
+   #### [Fenghuang Email Analysis] :Not Public Yet - The script "Fenghuang" is a Python script that is designed to scan emails for potentially malicious content. The script includes a number of functions that allow it to perform various tasks related to email scanning 
    Fenghuang is a name based on Chinese mythology that refers to a legendary bird in Chinese culture. It's often associated with the element of fire and is known for having a keen sense of sight, which makes it a fitting name for a script that scans emails with precision and accuracy.
 
    #### [Sun Wukong Logs Analysis]: Not Public Yet
