@@ -13,11 +13,11 @@ Projects
    #### [VirusTotal API Scanner:](https://github.com/Ozer0x777/Jiaolong_Malware_Analysis) This repository contains a script that utilizes the VirusTotal API to scan files for malware. VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content.
    
    #### [Jiāolóng Malware Analysis:](https://github.com/Ozer0x777/Virus_Total_API_Scanner) This repository contains a script for scanning files, URLs, and IP addresses using the VirusTotal API, MalwareBazar, JoeSandbox and AnyRun. It accepts multiple inputs and generates a CSV report containing the results.
-   In Chinese mythology, dragons are often depicted as powerful and benevolent creatures that symbolize good fortune and wisdom. The term "Jiāolóng" specifically refers to a hornless dragon, which is said to be a particularly wise and intelligent variant of the dragon.
+   *In Chinese mythology, dragons are often depicted as powerful and benevolent creatures that symbolize good fortune and wisdom. The term "Jiāolóng" specifically refers to a hornless dragon, which is said to be a particularly wise and intelligent variant of the dragon.*
    
    
    #### [Fenghuang Email Analysis]: Not Public Yet - The script "Fenghuang" is a Python script that is designed to scan emails for potentially malicious content. The script includes a number of functions that allow it to perform various tasks related to email scanning 
-   Fenghuang is a name based on Chinese mythology that refers to a legendary bird in Chinese culture. It's often associated with the element of fire and is known for having a keen sense of sight.
+   *Fenghuang is a name based on Chinese mythology that refers to a legendary bird in Chinese culture. It's often associated with the element of fire and is known for having a keen sense of sight.*
 
    #### [Sun Wukong Logs Analysis]: Not Public Yet
 ## 
