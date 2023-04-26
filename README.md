@@ -10,9 +10,9 @@ Projects
 
 
 ## Here are some of the projects I have worked on:
-   #### [VirusTotal API Scanner:](https://github.com/Ozer0x777/Jiaolong_Malware_Analysis) This repository contains a script that utilizes the VirusTotal API to scan files for malware. VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content.
+   #### [VirusTotal API Scanner:](https://github.com/Ozer0x777/Jiaolong_Malware_Analysis) This repository contains a script for scanning files, URLs, and IP addresses using the VirusTotal API VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content.
    
-   #### [Jiāolóng Malware Analysis:](https://github.com/Ozer0x777/Virus_Total_API_Scanner) This repository contains a script for scanning files, URLs, and IP addresses using the VirusTotal API, MalwareBazar, JoeSandbox and AnyRun. It accepts multiple inputs and generates a CSV report containing the results.
+   #### [Jiāolóng Malware Analysis:](https://github.com/Ozer0x777/Virus_Total_API_Scanner) This repository contains a script for scanning files, using the VirusTotal API, MalwareBazar, JoeSandbox and AnyRun. It generates a CSV report containing the results.
    *In Chinese mythology, dragons are often depicted as powerful and benevolent creatures that symbolize good fortune and wisdom. The term "Jiāolóng" specifically refers to a hornless dragon, which is said to be a particularly wise and intelligent variant of the dragon.*
    
    
