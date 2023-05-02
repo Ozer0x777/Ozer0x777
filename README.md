@@ -21,7 +21,7 @@ Projects
 
    #### [Sun Wukong Logs Analysis]: Not Public Yet
    
-   #### [hóng xiàn:](https://github.com/Ozer0x777/hong-xian) *is a Python script designed to communicate with Quectel M35A modules and manage the sending and receiving of SMS messages. The script supports multiple modules and can automatically detect and connect to available modules.*
+   #### [Hóng Xiàn:](https://github.com/Ozer0x777/hong-xian) *is a Python script designed to communicate with Quectel M35A modules and manage the sending and receiving of SMS messages. The script supports multiple modules and can automatically detect and connect to available modules.*
    *The script is named after the Red Thread of Fate, a symbol from Chinese mythology that represents the invisible thread that connects two people who are meant to be together. Just as the Red Thread of Fate brings people together, Red Thread (红线) connects multiple Quectel M35A modules and enables efficient and reliable communication through SMS messaging.*
 
 ## 
