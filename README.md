@@ -62,13 +62,49 @@ Loader AutoIt + Infostealer MaaS
 </td>
 <td valign="top" width="50%">
 
+### [Lazarus (DEV#POPPER)](https://github.com/Ozer0x777/writeups/tree/master/lazarus-githook)
+Git hook + chaîne JS multi-stages + backdoor Python
+
+- Hook git OS-aware, 3 stages JS obfuscator.io (rotation IIFE vérifiée, custom-b64)
+- Dropper Cloudflare R2, backdoor Python stealer (Chrome/Brave/Edge)
+- 3 IPs C2, persistance multi-OS, désobfuscateur dédié fourni
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### [wskmon](https://github.com/Ozer0x777/writeups/tree/master/wskmon-whql-backdoor)
+Backdoor kernel signé WHQL (abus WFP)
+
+- Driver x64 signé WHQL, backdoor réseau passif via Windows Filtering Platform
+- Déclencheur 4 octets magiques + HMAC-SHA256, injection svchost SYSTEM
+- 3 samples liés par un même certificat compromis, rapport MSRC de divulgation
+
+</td>
+<td valign="top" width="50%">
+
+### [SaferRAT](https://github.com/Ozer0x777/writeups/tree/master/saferrat-android)
+Banker Android (opérateur Diabloo)
+
+- Overlay de phishing dynamique, VNC d'accessibilité, capture de PIN géolocalisée
+- Exfiltration auto de la pellicule, 5 mécanismes de persistance distincts
+- Attribution opérateur via tag codé en dur, version anglaise fournie
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 ### [Tous les writeups →](https://github.com/Ozer0x777/writeups)
 Le dépôt complet des analyses
 
-- InfernoGrabber (ransomware navigateur généré par LLM)
-- Lazarus githook, jScrambler supply-chain, SaferRat, wskmon...
-- Chaque dossier : writeup + runbook + IOCs
+- Un dossier par sujet, chacun autonome
+- writeup + runbook + outils + IOCs
+- Règles YARA et PoC de démonstration fournis
 
+</td>
+<td valign="top" width="50%">
 </td>
 </tr>
 </table>
