@@ -96,6 +96,16 @@ Banker Android (opérateur Diabloo)
 <tr>
 <td valign="top" width="50%">
 
+### [InfernoGrabber](https://github.com/Ozer0x777/writeups/tree/master/deepseek-browser-ransomware)
+Ransomware/stealer Python généré par DeepSeek (LLM)
+
+- Serveur Flask monofichier, leurre « AI Discord Avatar Upscaler »
+- Abus de la File System Access API (une autorisation = accès récursif complet)
+- Commentaires russes, opérateur russophone relié via l'avatar Discord, règles YARA
+
+</td>
+<td valign="top" width="50%">
+
 ### [Tous les writeups →](https://github.com/Ozer0x777/writeups)
 Le dépôt complet des analyses
 
@@ -103,8 +113,6 @@ Le dépôt complet des analyses
 - writeup + runbook + outils + IOCs
 - Règles YARA et PoC de démonstration fournis
 
-</td>
-<td valign="top" width="50%">
 </td>
 </tr>
 </table>
